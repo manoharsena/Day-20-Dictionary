@@ -4,7 +4,7 @@ This project is to create and display the Dictionary app by fetching information
 
 We can get the meaning of the word from the dictionary by entering the word in search box and a click of search button.
 
-To view the Covid Details app in browser [Click Here](https://tn-covid-19.netlify.app/)
+To view the Dictionary app in browser [Click Here](https://dreamy-dictionary.netlify.app/)
 
 <br />
 
